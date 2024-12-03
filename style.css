@@ -1,0 +1,22 @@
+
+body {
+    background-color: #ffffff; 
+    font-family: FreeMono, monospace; 
+    justify-content: first baseline;
+    flex-direction: column-reverse;
+    }
+
+    title {
+    color: black;
+    }
+
+   
+    #Imgg1{
+    float: left;
+    margin-left: 2%;
+    margin-top: 5px;
+    width: fit-content;
+    transform: rotate(50px);
+    max-height: 25%;
+    max-width: 25%;
+    }
